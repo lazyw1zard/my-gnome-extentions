@@ -1,0 +1,8 @@
+{
+  "name": "Wireguard Shell Button",
+  "description": "Add button to enable/disable wireguard client",
+  "uuid": "brerfox33@gmail.com",
+  "shell-version": [
+    "41"
+  ]
+}
